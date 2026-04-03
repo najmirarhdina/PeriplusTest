@@ -17,8 +17,8 @@ own Periplus account credentials. Thank you!
 1. Clone this repository
 2. Open the project in IntelliJ IDEA
 3. Go to `src/test/java/PeriplusCartTest.java`
-4. Replace `TRYEMAIL@GMAIL.COM`(Email
-5. ) and `CHANGEHEREYA`(Paswword)with your Periplus account credentials
+4. Replace `TRYEMAIL@GMAIL.COM`(Email)
+5. and `CHANGEHEREYA`(Paswword) with your Periplus account credentials
 6. Run the test by right-clicking `PeriplusCartTest.java` → Run
 
 ## Test Scenario
